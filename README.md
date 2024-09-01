@@ -1,7 +1,3 @@
-Sure! Here’s a `README.md` without the code snippets:
-
----
-
 # MasterDetailsCRUDAPP
 
 ## Introduction
@@ -93,6 +89,3 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 
 For questions, suggestions, or issues, please contact the project maintainer at [your.email@example.com](mailto:your.email@example.com).
 
----
-
-This version provides a clear, concise overview of your project without including specific code examples.
